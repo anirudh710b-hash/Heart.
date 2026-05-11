@@ -13,4 +13,4 @@ You can start the application in VS Code by running the following command:
 1. Open any notebook (`*.ipynb`) file in editor.
 2. Run the notebook using `Run Cell` or `Run All` option from the notebook.
 
-Happy coding! 🙂
+Happy coding! 
